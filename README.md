@@ -1,6 +1,6 @@
-[![license](https://img.shields.io/github/license/plus3it/name-computer-formula.svg)](./LICENSE)
-[![Travis Build Status](https://travis-ci.org/plus3it/name-computer-formula.svg?branch=master)](https://travis-ci.org/plus3it/name-computer-formula)
-[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/plus3it/name-computer-formula?branch=master&svg=true)](https://ci.appveyor.com/project/plus3it/name-computer-formula)
+[![license](https://img.shields.io/github/license/MetroStar/name-computer-formula.svg)](./LICENSE)
+[![Travis Build Status](https://travis-ci.org/MetroStar/name-computer-formula.svg?branch=master)](https://travis-ci.org/MetroStar/name-computer-formula)
+[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/MetroStar/name-computer-formula?branch=master&svg=true)](https://ci.appveyor.com/project/MetroStar/name-computer-formula)
 
 # name-computer-formula
 Cross-platform salt formula to set the computer name of a system.
